@@ -114,6 +114,8 @@ body {
 	color: #A6ADB4;
 	font-size: 13;
 	margin: 0 40px 10px 40px;
+
+	font-family: 'Oswald', sans-serif;
 }
 
 .time {
@@ -127,6 +129,8 @@ body {
 	color: #A6ADB4;
 	font-size: 13;
 	vertical-align: middle;
+	
+	font-family: 'Oswald', sans-serif;
 }
 
 
@@ -185,3 +189,78 @@ body {
 	height: 210px;
 	margin-bottom: 102px;
 } 
+
+
+/*footer elements*/
+
+footer {
+	height: 200px;
+	background: #A6ADB4;
+	color: #CBD0D3;
+	padding-left: 142px;
+	padding-top: 56px;
+}
+
+.footer-div1 {
+	display: inline-block;
+	height: 84px;
+	vertical-align: top;
+
+}
+
+.a-footer {
+	display: inline-block;
+	font-family: 'Oswald', sans-serif;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 13;
+	margin-right: 89.1px;
+	vertical-align: top;
+
+}
+
+ .footer-ul {
+ 	display: inline-block;
+ }
+
+.footer-list {
+	text-transform: capitalize;
+	color: #CBD0D3;
+	font-size: 13;
+	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
+	margin-bottom: 8px;
+
+}
+
+
+.discovery {
+	margin-right: 71px;
+}
+
+
+.guidelines {
+	margin-right: 86.3px;
+}
+
+
+.footer-span {
+	font-size: 11px;
+	font-family: 'Oswald', sans-serif;
+	margin-left: 105px;
+	margin-right: 165.2px;
+}
+
+.footer-div2 {
+	display: inline-block;
+
+}
+
+.footer-img {
+	height: 16px;
+	margin-right: 32px;
+}
+
+.web {
+	margin-right: 0;
+}
