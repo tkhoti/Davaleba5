@@ -2,6 +2,14 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
 
+
+/*body background*/
+
+body {
+
+	background: #F6F8F9;
+}
+
 /*Header Elements*/
 
 .a-header {
@@ -35,7 +43,7 @@
 
 .active {
 
-	color: #000000;
+	color: #202124;
 	margin-right: 27px;
 }
 
@@ -43,3 +51,81 @@
 	margin: 11px 0 9px 18px;
 	vertical-align: middle;
 }
+
+
+/*Section1 and Section2 title*/
+
+
+.section-title {
+
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #202124;
+	margin-bottom: 40px;
+	text-transform: uppercase;
+}
+
+
+/*Section 1 elements*/
+
+.section1 {
+
+	margin-top: 25px;
+	margin-bottom: 58px;
+	margin-left: 90px;
+}
+
+.sec1-div {
+
+	position: relative;
+	width: 360px;
+	height: 350px;
+	background: #FFFFFF;
+	display: inline-block;
+	margin-right: 40px;
+}
+
+.last-div {
+
+	margin-right: 0;
+}
+
+.sec1-img {
+	width: 360px;
+	height: 180px;
+	margin-bottom: 66px;
+}
+
+.sec1-title {
+
+	position: absolute;
+	left: 40px;
+	top: 28px;
+	color: #FFFFFF;
+	size: 16px;
+	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
+}
+
+
+.sec1-p {
+
+	color: #A6ADB4;
+	font-size: 13;
+	margin: 0 40px 10px 40px;
+}
+
+.time {
+	vertical-align: middle;
+	width: 16px;
+	margin-left: 40px;
+	margin-right: 10px;
+}
+
+.sec1-time {
+	color: #A6ADB4;
+	font-size: 13;
+	vertical-align: middle;
+}
+
